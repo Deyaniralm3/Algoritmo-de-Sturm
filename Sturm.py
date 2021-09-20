@@ -3,7 +3,7 @@ import sys
 
 def encabezado():
 	os.system("cls")
-	print("\t\t\tJuan Pablo Malagón Morales\nDeyanira López Méndez\nHéctor Gerardo Carvajal Sánchez\n\n")
+	print("\t\t\tJuan Pablo Malagón Morales\n Deyanira López Méndez\n Héctor Gerardo Carvajal Sánchez\n\n")
 	print("\t\tRaíces de un polinomio: Teorema de Sturm\n\n")
 
 #Regresa el valor del polinomio P evaluado en c
